@@ -1,2 +1,2 @@
 # laraveltodos
-Laravel Todos Basic Application with is created for education purposes.
+Laravel Todos Basic Application is created for education purposes.
